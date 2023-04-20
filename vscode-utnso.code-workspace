@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "consola"
+		},
+		{
+			"path": "kernel"
+		},
+		{
+			"path": "scripts"
+		},
+		{
+			"path": "shared"
+		},
+		{
+			"path": "CPU"
+		}
+	]
+}
